@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c687fcc54179470c830c3d76a8f394dd, type: 3}
+  m_Name: VisualConfig
+  m_EditorClassIdentifier: 
+  <StartViewPrefab>k__BackingField: {fileID: 9218465525520922968, guid: 4c2cd2d76d4ebc4448aeb641489f6161, type: 3}
+  <GameplayViewPrefab>k__BackingField: {fileID: 2429659063069150274, guid: f2f055a0262507f4bb37043aae8eebee, type: 3}
+  <LetterViewPrefab>k__BackingField: {fileID: 7816049585698352695, guid: be78dd66d7bd0dc4f93a32c41916d7e5, type: 3}
+  <KeyboardLetterViewPrefab>k__BackingField: {fileID: -4852395119775492683, guid: 0416ee43d29bcfa4b99b624f26e456df, type: 3}
